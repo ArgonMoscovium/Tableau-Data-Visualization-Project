@@ -32,7 +32,7 @@ This repository contains a **Tableau dashboard** designed for the analysis of UK
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ArgonMoscovium/Tableau-Data-Visualization-Project/blob/main/LICENSE) file for details.
 
 
 
