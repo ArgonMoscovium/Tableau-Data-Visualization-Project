@@ -22,7 +22,7 @@ This repository contains a **Tableau dashboard** designed for the analysis of UK
 2. Explore the dashboard using the available filters for a detailed view of customer data.
 3. Visit the [Tableau Public link](https://public.tableau.com/app/profile/anurag.mohan3372/viz/Section_6_UK_bank_customers/Dashboard1) to access the live dashboard.
 
-## Screenshots
+## Screenshot
 ![image](https://github.com/user-attachments/assets/99ea3ebd-f85f-48c1-a221-6a365766fc85)
 
 
